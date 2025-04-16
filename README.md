@@ -1,4 +1,6 @@
 Classical Ciphers Collection 🕵️‍♂️🔐
+
+
 This repository contains Python implementations of classical encryption algorithms, often studied in cryptography courses or used in historical contexts. Each cipher includes an interactive switch-case interface for ease of use.
 
 🔤 Supported Ciphers
