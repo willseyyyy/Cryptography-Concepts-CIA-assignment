@@ -33,6 +33,7 @@ Myszkowski Cipher
 ▶️ How to Run
 Make sure you have Python and NumPy installed.
 
+
 bash
 Copy
 Edit
@@ -40,13 +41,17 @@ pip install numpy
 python classical_ciphers.py
 Follow the prompts to select the encryption method and provide the required inputs.
 
-📁 File Format
+
+
+File Format
 classical_ciphers.py: Main Python file containing all cipher algorithms and switch-based interface.
 
-📚 Educational Use
+
+Educational Use
 This project is intended for learning purposes and classical cryptography demonstrations. These algorithms are not secure for modern applications.
 
-📜 License
+
+License
 This project is licensed under the MIT License.
 
 
